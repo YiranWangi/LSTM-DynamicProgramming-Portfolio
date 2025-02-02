@@ -1,5 +1,5 @@
 # LSTM-DynamicProgramming-Portfolio
-I worked with three other students as a Junior student, and finally we publish it at AIMS Mathematics
+I collaborated with three other students during my junior year, and we eventually published our work in AIMS Mathematics under the guidance of our professor.
 
 # Optimization of venture portfolio based on LSTM and dynamic programming
 
